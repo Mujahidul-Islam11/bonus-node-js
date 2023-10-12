@@ -1,0 +1,20 @@
+//Installing guide
+
+// 1 :- search express js
+
+// 2 :- Open terminal and go to projects folder
+
+// 3 :- Type this command(mkdir project-name)
+
+// 4 :- (by terminal) Go to the project folder you made 
+
+// 5 :- After that npm init 
+
+// 6 :- Enter every options that show's on terminal and type yes
+
+// 7 :- Then type (On terminal) :- (npm install express)
+
+// 8 :- make three variables (express, app, port) in index.js
+
+// 9 :- After making three variables get the route and peremeter set :- app.get('/', (req, res)=>{    res.send("text")})
+
